@@ -1,0 +1,36 @@
+# Сборка
+build/
+cmake-build-*/
+*.o
+*.so
+*.exe
+*.dll
+*.dylib
+
+
+
+# Qt / QML
+*.rcc
+*.qmlc
+*.jsc
+.qmlls.ini
+messenger
+messenger_autogen/
+.qmake.stash
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.user.*
+
+# Git
+*.orig
+*.swp
+*.swo
+*~
+
+# Ресурсы
+qrc_*.cpp
+moc_*.cpp
+*.moc
