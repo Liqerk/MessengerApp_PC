@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_messenger_FILE /home/liqerk/messenger_desktop/build/messenger)
+set(__QT_DEPLOY_TARGET_messenger_TYPE EXECUTABLE)

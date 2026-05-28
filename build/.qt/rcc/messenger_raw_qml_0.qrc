@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/com/messenger/app/">
+    <file alias="qml/Main.qml">/home/liqerk/messenger_desktop/qml/Main.qml</file>
+    <file alias="qml/pages/LoginPage.qml">/home/liqerk/messenger_desktop/qml/pages/LoginPage.qml</file>
+    <file alias="qml/pages/RegisterPage.qml">/home/liqerk/messenger_desktop/qml/pages/RegisterPage.qml</file>
+  </qresource>
+</RCC>
+

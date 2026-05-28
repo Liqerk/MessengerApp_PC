@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/com/messenger/app">
+    <file alias="qmldir">/home/liqerk/messenger_desktop/build/com/messenger/app/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,3 @@
+[<SLASH>home<SLASH>liqerk<SLASH>messenger_desktop]
+importPaths="/home/liqerk/messenger_desktop/build:/home/liqerk/messenger_desktop/build/com/messenger/app:/usr/lib/qt6/qml"
+resourceFiles="/home/liqerk/messenger_desktop/build/.qt/rcc/qmake_com_messenger_app.qrc:/home/liqerk/messenger_desktop/build/.qt/rcc/messenger_raw_qml_0.qrc"

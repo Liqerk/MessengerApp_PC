@@ -1,0 +1,14 @@
+-rootPath
+/home/liqerk/messenger_desktop
+-cmake-output
+-output-file
+/home/liqerk/messenger_desktop/build/.qt/qml_imports/messenger_conf.cmake
+-importPath
+/home/liqerk/messenger_desktop/build
+-importPath
+/home/liqerk/messenger_desktop/build/com/messenger/app
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/liqerk/messenger_desktop/build/.qt/rcc/qmake_com_messenger_app.qrc
+/home/liqerk/messenger_desktop/build/.qt/rcc/messenger_raw_qml_0.qrc

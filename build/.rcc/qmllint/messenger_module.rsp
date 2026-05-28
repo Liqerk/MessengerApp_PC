@@ -1,0 +1,14 @@
+-I
+/home/liqerk/messenger_desktop/build
+-I
+/home/liqerk/messenger_desktop/build/com/messenger/app
+-I
+/home/liqerk/messenger_desktop/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/liqerk/messenger_desktop/build/.qt/rcc/qmake_com_messenger_app.qrc
+--resource
+/home/liqerk/messenger_desktop/build/.qt/rcc/messenger_raw_qml_0.qrc
+--module
+com.messenger.app

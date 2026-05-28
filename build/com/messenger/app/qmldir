@@ -1,0 +1,8 @@
+module com.messenger.app
+typeinfo messenger.qmltypes
+prefer :/com/messenger/app/
+Main 1.0 qml/Main.qml
+LoginPage 1.0 qml/pages/LoginPage.qml
+RegisterPage 1.0 qml/pages/RegisterPage.qml
+depends QtQuick
+

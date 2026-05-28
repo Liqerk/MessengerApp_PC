@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/com/messenger/app">/home/liqerk/messenger_desktop/build/com/messenger/app</file>
+
+  </qresource>
+</RCC>
